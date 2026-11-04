@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/sitemap.xml
