@@ -23,6 +23,9 @@
 - [Junk removal service Cape Coral](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/junk-removal-service-cape-coral/): Junk removal service Cape Coral for clearing unwanted belongings. Call ADAPT WASTE Dumpster Rentals to describe the items and discuss your options.
 - [Waste management service Cape Coral homeowners can plan](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/waste-management-service-cape-coral/): Waste management service Cape Coral homeowners can plan with clear next steps. Review your project needs and call ADAPT WASTE Dumpster Rentals today.
 
+## Newsroom
+- [Cape Coral Dumpster Rental Guide Now Available in Multiple Formats](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/news/2026-11-06-cape-coral-dumpster-rental-guide-now-available-in/): ADAPT WASTE Dumpster Rentals published a guide to dumpster rentals in Cape Coral, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Dumpster Rentals in Cape Coral, Florida](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/): Make cleanup easier with dumpster rentals and waste services for projects across Cape Coral. Call +1239-456-3867.
 - [About ADAPT WASTE Dumpster Rentals](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/about/): About ADAPT WASTE Dumpster Rentals, Cape Coral.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/adapt-waste-dumpster-rentals-cape-coral/news/rss.xml)
 - [Main resource site](https://adapt-waste-cape-coral-rentals.localbusinesses1.chatgpt.site)
